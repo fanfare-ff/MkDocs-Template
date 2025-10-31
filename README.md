@@ -1,0 +1,1 @@
+![site preview](/docs/assets/images/site_preview.png)
