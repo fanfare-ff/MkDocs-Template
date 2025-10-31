@@ -1,6 +1,6 @@
 site_name: MkDocs Template
-site_url: https://example.com
-site_author: username
+site_url: https://fanfare-ff.github.io/mkdocs-template
+site_author: Fanfare
 nav:
   - Overview: index.md
   - Section I:
